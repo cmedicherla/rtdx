@@ -1,0 +1,283 @@
+{
+  "/rtdx/about_us-735": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "4bf8305d"
+  },
+  "/rtdx/blog-409": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "dec58666"
+  },
+  "/rtdx/blog/archive-04d": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "bfae57da"
+  },
+  "/rtdx/blog/authors-c5d": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "4ecbcf8c"
+  },
+  "/rtdx/blog/authors/all-sebastien-lorber-articles-ff3": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "666cfa29"
+  },
+  "/rtdx/blog/authors/yangshun-134": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "5631ec07"
+  },
+  "/rtdx/blog/first-blog-post-4a7": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/rtdx/blog/long-blog-post-d3f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/rtdx/blog/mdx-blog-post-d29": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/rtdx/blog/tags-ad1": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "fccdc721"
+  },
+  "/rtdx/blog/tags/docusaurus-da0": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "c83e83a2"
+  },
+  "/rtdx/blog/tags/facebook-dda": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "__props": "fa7fb153"
+  },
+  "/rtdx/blog/tags/hello-09b": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "__props": "d36afd97"
+  },
+  "/rtdx/blog/tags/hola-8c4": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "1b1f8b93"
+  },
+  "/rtdx/blog/welcome-6ce": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/rtdx/disclaimer-03c": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "30189a2f"
+  },
+  "/rtdx/markdown-page-218": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/rtdx/docs-4c1": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/rtdx/docs-c49": {
+    "__comp": "a7bd4aaa",
+    "__props": "b5a434cb"
+  },
+  "/rtdx/docs-3cc": {
+    "__comp": "a94703ab"
+  },
+  "/rtdx/docs/hello-289": {
+    "__comp": "17896441",
+    "content": "9dfd250b"
+  },
+  "/rtdx/docs/insights/brain_health-4ff": {
+    "__comp": "17896441",
+    "content": "a5623911"
+  },
+  "/rtdx/docs/insights/children_health-659": {
+    "__comp": "17896441",
+    "content": "0af703c1"
+  },
+  "/rtdx/docs/insights/heart_health-ba9": {
+    "__comp": "17896441",
+    "content": "33a27681"
+  },
+  "/rtdx/docs/insights/weightloss-86c": {
+    "__comp": "17896441",
+    "content": "4aa346c3"
+  },
+  "/rtdx/docs/our_mission-b41": {
+    "__comp": "17896441",
+    "content": "ee9fa3a0"
+  },
+  "/rtdx/docs/the_principles/activity-79e": {
+    "__comp": "17896441",
+    "content": "cc827a02"
+  },
+  "/rtdx/docs/the_principles/hydration-b12": {
+    "__comp": "17896441",
+    "content": "9b4d68c8"
+  },
+  "/rtdx/docs/the_principles/nutrition-146": {
+    "__comp": "17896441",
+    "content": "edba3726"
+  },
+  "/rtdx/docs/the_principles/sleep-c80": {
+    "__comp": "17896441",
+    "content": "a9095531"
+  },
+  "/rtdx/-01b": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

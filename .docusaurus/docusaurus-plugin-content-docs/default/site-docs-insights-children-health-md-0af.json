@@ -1,0 +1,20 @@
+{
+  "id": "insights/children_health",
+  "title": "Children's Health",
+  "description": "Modify docusaurus.config.js to add support for the fr locale:",
+  "source": "@site/docs/insights/children_health.md",
+  "sourceDirName": "insights",
+  "slug": "/insights/children_health",
+  "permalink": "/rtdx/docs/insights/children_health",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/insights/children_health.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "principlesSidebar",
+  "previous": {
+    "title": "Weight Loss",
+    "permalink": "/rtdx/docs/insights/weightloss"
+  }
+}

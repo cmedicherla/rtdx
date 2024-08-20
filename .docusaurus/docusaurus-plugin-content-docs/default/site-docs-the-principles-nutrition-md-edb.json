@@ -1,0 +1,24 @@
+{
+  "id": "the_principles/nutrition",
+  "title": "Nutrition",
+  "description": "",
+  "source": "@site/docs/the_principles/nutrition.md",
+  "sourceDirName": "the_principles",
+  "slug": "/the_principles/nutrition",
+  "permalink": "/rtdx/docs/the_principles/nutrition",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/the_principles/nutrition.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "principlesSidebar",
+  "previous": {
+    "title": "Activity",
+    "permalink": "/rtdx/docs/the_principles/activity"
+  },
+  "next": {
+    "title": "Hydration",
+    "permalink": "/rtdx/docs/the_principles/hydration"
+  }
+}

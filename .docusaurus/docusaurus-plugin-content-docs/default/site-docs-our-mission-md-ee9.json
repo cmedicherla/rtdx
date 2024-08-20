@@ -1,0 +1,20 @@
+{
+  "id": "our_mission",
+  "title": "Our Mission",
+  "description": "Our Mission: Prevention is the best strategy. Our mission is to share a set of guiding principles focused on prevention and proactive management of health. There are countless recommendations available in mainstream media which are complex and riddled with disinformation. Our strategy is to simplify and filter this chatter to bring the focus back to foundational principles of health, akin to what our parents and grandparents used to frequently tell us. In doing so, we hope to rekindle the powerful generationally rooted working framework of thinking about one's health to empower good habits and thereby strive to prevent disease.",
+  "source": "@site/docs/our_mission.md",
+  "sourceDirName": ".",
+  "slug": "/our_mission",
+  "permalink": "/rtdx/docs/our_mission",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/our_mission.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "principlesSidebar",
+  "next": {
+    "title": "Activity",
+    "permalink": "/rtdx/docs/the_principles/activity"
+  }
+}

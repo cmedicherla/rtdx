@@ -1,0 +1,24 @@
+{
+  "id": "insights/brain_health",
+  "title": "Brain Health",
+  "description": "Docusaurus can manage multiple versions of your docs.",
+  "source": "@site/docs/insights/brain_health.md",
+  "sourceDirName": "insights",
+  "slug": "/insights/brain_health",
+  "permalink": "/rtdx/docs/insights/brain_health",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/insights/brain_health.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "principlesSidebar",
+  "previous": {
+    "title": "Sleep",
+    "permalink": "/rtdx/docs/the_principles/sleep"
+  },
+  "next": {
+    "title": "Heart Health",
+    "permalink": "/rtdx/docs/insights/heart_health"
+  }
+}

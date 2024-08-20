@@ -1,0 +1,77 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/rtdx/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/rtdx/docs",
+          "mainDocId": "our_mission",
+          "docs": [
+            {
+              "id": "hello",
+              "path": "/rtdx/docs/hello"
+            },
+            {
+              "id": "insights/brain_health",
+              "path": "/rtdx/docs/insights/brain_health",
+              "sidebar": "principlesSidebar"
+            },
+            {
+              "id": "insights/children_health",
+              "path": "/rtdx/docs/insights/children_health",
+              "sidebar": "principlesSidebar"
+            },
+            {
+              "id": "insights/heart_health",
+              "path": "/rtdx/docs/insights/heart_health",
+              "sidebar": "principlesSidebar"
+            },
+            {
+              "id": "insights/weightloss",
+              "path": "/rtdx/docs/insights/weightloss",
+              "sidebar": "principlesSidebar"
+            },
+            {
+              "id": "our_mission",
+              "path": "/rtdx/docs/our_mission",
+              "sidebar": "principlesSidebar"
+            },
+            {
+              "id": "the_principles/activity",
+              "path": "/rtdx/docs/the_principles/activity",
+              "sidebar": "principlesSidebar"
+            },
+            {
+              "id": "the_principles/hydration",
+              "path": "/rtdx/docs/the_principles/hydration",
+              "sidebar": "principlesSidebar"
+            },
+            {
+              "id": "the_principles/nutrition",
+              "path": "/rtdx/docs/the_principles/nutrition",
+              "sidebar": "principlesSidebar"
+            },
+            {
+              "id": "the_principles/sleep",
+              "path": "/rtdx/docs/the_principles/sleep",
+              "sidebar": "principlesSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "principlesSidebar": {
+              "link": {
+                "path": "/rtdx/docs/our_mission",
+                "label": "our_mission"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

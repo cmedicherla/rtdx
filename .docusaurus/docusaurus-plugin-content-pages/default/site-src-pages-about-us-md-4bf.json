@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/rtdx/about_us",
+  "source": "@site/src/pages/about_us.md",
+  "title": "About Us",
+  "description": "About Us",
+  "frontMatter": {
+    "title": "About Us",
+    "description": "About Us",
+    "hide_table_of_contents": true
+  },
+  "unlisted": false
+}

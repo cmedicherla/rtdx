@@ -1,0 +1,24 @@
+{
+  "id": "the_principles/hydration",
+  "title": "Hydration",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/the_principles/hydration.md",
+  "sourceDirName": "the_principles",
+  "slug": "/the_principles/hydration",
+  "permalink": "/rtdx/docs/the_principles/hydration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/the_principles/hydration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "principlesSidebar",
+  "previous": {
+    "title": "Nutrition",
+    "permalink": "/rtdx/docs/the_principles/nutrition"
+  },
+  "next": {
+    "title": "Sleep",
+    "permalink": "/rtdx/docs/the_principles/sleep"
+  }
+}

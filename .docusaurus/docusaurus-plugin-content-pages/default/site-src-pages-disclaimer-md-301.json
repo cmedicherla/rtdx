@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/rtdx/disclaimer",
+  "source": "@site/src/pages/disclaimer.md",
+  "title": "Disclaimer Page",
+  "description": "Legal Disclaimers",
+  "frontMatter": {
+    "title": "Disclaimer Page",
+    "description": "Legal Disclaimers",
+    "hide_table_of_contents": false
+  },
+  "unlisted": false
+}

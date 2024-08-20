@@ -1,0 +1,24 @@
+{
+  "id": "insights/weightloss",
+  "title": "Weight Loss",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs/insights/weightloss.md",
+  "sourceDirName": "insights",
+  "slug": "/insights/weightloss",
+  "permalink": "/rtdx/docs/insights/weightloss",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/insights/weightloss.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "principlesSidebar",
+  "previous": {
+    "title": "Heart Health",
+    "permalink": "/rtdx/docs/insights/heart_health"
+  },
+  "next": {
+    "title": "Children's Health",
+    "permalink": "/rtdx/docs/insights/children_health"
+  }
+}
